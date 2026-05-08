@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       {/* <Contact /> */}
-      <RegisterPage/>
+      <RegisterPage/> {/*Registration Form */}
     </div>
   )
 }
